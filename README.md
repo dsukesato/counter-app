@@ -1,3 +1,6 @@
+# Counter-App
+カウントアップを行うWebアプリです。https://dsukesato.github.io/counter-app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
